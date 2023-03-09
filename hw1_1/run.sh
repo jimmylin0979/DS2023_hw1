@@ -1,0 +1,12 @@
+python3 311581013.py crawl
+python3 311581013.py push 0101 0301
+python3 311581013.py popular 0101 0301
+python3 311581013.py keyword 正妹 0101 0301
+
+python3 311581013.py push 0101 1231
+python3 311581013.py popular 0101 1231
+python3 311581013.py keyword 正妹 0101 1231
+
+python3 311581013.py push 1001 1231
+python3 311581013.py popular 1001 1231
+python3 311581013.py keyword 正妹 1001 1231
